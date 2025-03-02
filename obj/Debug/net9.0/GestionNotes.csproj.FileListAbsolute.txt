@@ -1,0 +1,14 @@
+C:\Users\Admin\GestionNotes\bin\Debug\net9.0\GestionNotes.exe
+C:\Users\Admin\GestionNotes\bin\Debug\net9.0\GestionNotes.deps.json
+C:\Users\Admin\GestionNotes\bin\Debug\net9.0\GestionNotes.runtimeconfig.json
+C:\Users\Admin\GestionNotes\bin\Debug\net9.0\GestionNotes.dll
+C:\Users\Admin\GestionNotes\bin\Debug\net9.0\GestionNotes.pdb
+C:\Users\Admin\GestionNotes\obj\Debug\net9.0\GestionNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\GestionNotes\obj\Debug\net9.0\GestionNotes.AssemblyInfoInputs.cache
+C:\Users\Admin\GestionNotes\obj\Debug\net9.0\GestionNotes.AssemblyInfo.cs
+C:\Users\Admin\GestionNotes\obj\Debug\net9.0\GestionNotes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\GestionNotes\obj\Debug\net9.0\GestionNotes.dll
+C:\Users\Admin\GestionNotes\obj\Debug\net9.0\refint\GestionNotes.dll
+C:\Users\Admin\GestionNotes\obj\Debug\net9.0\GestionNotes.pdb
+C:\Users\Admin\GestionNotes\obj\Debug\net9.0\GestionNotes.genruntimeconfig.cache
+C:\Users\Admin\GestionNotes\obj\Debug\net9.0\ref\GestionNotes.dll
